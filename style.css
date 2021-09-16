@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: large;
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: dashed;
+    ;
+}
+
+#Introduction{
+    color: forestgreen;
+}
+
+.firstbutton button{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    border-color: aquamarine;
+}
+
+.secondbutton button{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cornflowerblue;
+    border-color:cornflowerblue;
+}
+
+.thirdbutton button{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkmagenta;
+    border-color:darkmagenta;
+}
+
+h1:hover {
+    background-color: yellow;
+}
+
+#WhoWasHe {
+    color: firebrick;
+}
+
+#Myth {
+    color: darkblue;
+}
+
+#Enjoy {
+    color: saddlebrown;
+}
