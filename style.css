@@ -18,19 +18,19 @@ h1 {
 .firstbutton button{
     font-family: 'Courier New', Courier, monospace;
     background-color: aquamarine;
-    border-color: aquamarine;
+    border-color: black;
 }
 
 .secondbutton button{
     font-family: 'Courier New', Courier, monospace;
     background-color: cornflowerblue;
-    border-color:cornflowerblue;
+    border-color:black;
 }
 
 .thirdbutton button{
     font-family: 'Courier New', Courier, monospace;
     background-color: darkmagenta;
-    border-color:darkmagenta;
+    border-color:black;
 }
 
 h1:hover {
@@ -50,6 +50,6 @@ h1:hover {
 }
 
 #image {
-    width: 500;
-    height: 600;
+    width: 500px;
+    height: 600px;
 }
