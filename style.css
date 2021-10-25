@@ -37,6 +37,10 @@ h1:hover {
     background-color: yellow;
 }
 
+h2 {
+    background-color: cornflowerblue;
+}
+
 #WhoWasHe {
     color: firebrick;
 }
