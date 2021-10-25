@@ -1,4 +1,4 @@
-body {
+body p{
     background-color: lightblue;
 }
 
@@ -17,6 +17,8 @@ h1 {
 
 h1:hover {
     background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dotted;
 }
 
 .part2header {
@@ -25,6 +27,7 @@ h1:hover {
 
 h3 {
     background-color: mistyrose;
+    border-style: solid;
 }
 
 h4 {
