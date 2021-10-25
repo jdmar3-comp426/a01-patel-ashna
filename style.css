@@ -21,7 +21,7 @@ h1:hover {
     border-style: dotted;
 }
 
-.part2header {
+h2.part2header {
     background-color: cornflowerblue;
 }
 
@@ -58,4 +58,16 @@ h4 {
 #image3 {
     width: 500px;
     height: 500px;
+}
+
+#lineone {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#linetwo {
+    font-style: italic;
+}
+
+#linethree {
+    font-size: small;
 }
