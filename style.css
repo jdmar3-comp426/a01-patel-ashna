@@ -15,24 +15,6 @@ h1 {
     color: forestgreen;
 }
 
-.firstbutton button{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aquamarine;
-    border-color: black;
-}
-
-.secondbutton button{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: cornflowerblue;
-    border-color:black;
-}
-
-.thirdbutton button{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: darkmagenta;
-    border-color:black;
-}
-
 h1:hover {
     background-color: yellow;
 }
@@ -41,6 +23,13 @@ h2 {
     background-color: cornflowerblue;
 }
 
+h3 {
+    background-color: mistyrose;
+}
+
+h4 {
+    background-color: darkseagreen;
+}
 #WhoWasHe {
     color: firebrick;
 }
